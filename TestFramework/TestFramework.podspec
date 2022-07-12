@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.description  = "This is the short description of the testFramework, this is a very basic test framework."
   spec.homepage     = "https://github.com/RaghuramLekkala/TestFramework"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "RAMraghuram" => "ram309591@gmail.com" }
+  spec.author       = { "Raghuram Lekkala" => "raghuram.lekkala.popcornapps@gmail.com" }
   spec.platform     = :ios, "11.0"
   spec.source       = { :git => "https://github.com/RaghuramLekkala/TestFramework.git", :tag => "#{spec.version}" }
   spec.source_files  = "TestFramework/**/*.{swift}"

@@ -1,0 +1,24 @@
+{
+  "name": "TestFramework",
+  "version": "1.0.0",
+  "summary": "this is the summary of the TestFramework.",
+  "description": "This is the short description of the testFramework, this is a very basic test framework.",
+  "homepage": "https://github.com/RaghuramLekkala/TestFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RAMraghuram": "ram309591@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/RaghuramLekkala/TestFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "TestFramework/**/*.{swift}",
+  "swift_versions": "5.3",
+  "swift_version": "5.3"
+}
